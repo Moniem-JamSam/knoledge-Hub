@@ -13,7 +13,7 @@ function Page1(){
     }
         return (
             <div className='BackGround'>
-                <h1 className='firstHead'>Hi to my website </h1>
+                <h1 className='firstHead'>Hi to my website Update2 </h1>
                 <div className='buttonContainer'>
                 <button className='buttonHome' type="submit" onClick={routeChange}>Submit</button>
 
